@@ -1,0 +1,37 @@
+body {
+    background-image: url("c:\Users\ВТК\Desktop\WhatsApp Image 2023-10-03 at 11.08.26.jpeg");
+ }
+ ul {
+    list-style: none;
+    margin-top: -72px;
+    margin-left: 90px;
+    display: flex;
+    color: white;
+    font-family: Helvetica;
+ }
+ li {
+    padding: 20px;
+ }
+ form {
+    margin-top: -56px;
+    margin-left: 550px;
+ }
+ input {width: 250px;
+ height: 30px;
+ padding-left: 15px;
+ border-radius: 42px;
+ border: 1px solid #ffffff; 
+ outline: none;
+ position: relative;
+ transition: .3s linear;
+ background-color: #641180;}
+
+ ::placeholder {
+    color: white;
+    font-family: Helvetica;
+ }
+
+ .i {height: 70px;
+margin-left: 25px;}
+
+.q {background-image: url(3.p);}
